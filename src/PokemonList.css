@@ -1,0 +1,11 @@
+.pokemon-img img {
+    width: 115px;
+}
+.pokemon-li {
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: chocolate;
+    justify-content: space-around;
+}
